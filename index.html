@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Weather App</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+</head>
+
+<body>
+  <!-- <img src="./W.jpg" width="1550px" height="1200px" alt="world"> -->
+  <div class="container">
+    <h1>Weather App</h1>
+    <form>
+      <input type="text" id="city" placeholder="Enter city ">
+      <button type="submit" onclick="getWeather(event)" id="btn">Get Weather</button>
+    </form>
+    <div class="para-container">
+      <div>
+        Country Name:
+        <span id="country">
+
+        </span>
+      </div>
+      <br>
+      <div>
+        Base:
+        <span id="base">
+
+        </span>
+      </div>
+      <br>
+      <div>
+        Min-Temperature:
+        <span id="min-temp">
+
+        </span>°C
+      </div>
+      <br>
+      <div>
+        Max-Temperature:
+        <span id="max-temp">
+
+        </span>°C
+      </div>
+      <br>
+      <div>
+        Latitude:
+        <span id="latitude">
+
+        </span>
+      </div>
+      <br>
+      <div>
+        Longitude:
+        <span id="longitude">
+
+        </span>
+      </div>
+      <br>
+      <div>
+        Description:
+        <span id="description">
+
+        </span>
+      </div>
+      <br>
+      <div>
+        Humidity:
+        <span id="humidity">
+
+        </span>%
+      </div>
+      <br>
+      <div>
+        Sea Level Pressure:
+        <span id="sea_level">
+
+        </span>hPa
+      </div>
+      <br>
+      <div>
+        Ground Level Pressure:
+        <span id="ground_level">
+
+        </span>hPa
+      </div>
+      <br>
+      <div>
+        Visibility:
+        <span id="visibility">
+
+        </span>KM
+      </div>
+      <br>
+      <div>
+        Wind Speed:
+        <span id="wind_speed">
+
+        </span>Miles/Hour
+      </div>
+      <br>
+    </div>
+  </div>
+  <script src="script.js">  </script>
+</body>
+
+</html>
