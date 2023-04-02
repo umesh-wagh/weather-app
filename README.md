@@ -85,7 +85,7 @@ Add additional notes about how to deploy this on a live system.
 
 ## ⛏️ Flow Chart <a name = "flowchart"></a>
 
-![alt text](https://github.com/[umesh-wagh]/[weather-app]/blob/[main]/Weather-Flowchart.jpg?raw=true)
+![alt text](https://github.com/[umesh-wagh]/[weather-app]/blob/[main]/Weather-Flowchart.png?raw=true)
 
 - [MongoDB](https://www.mongodb.com/) - Database
 - [Express](https://expressjs.com/) - Server Framework
