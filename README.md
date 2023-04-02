@@ -1,16 +1,14 @@
-# weather-app
- 
 # Weather App
 
 # project-documentation
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px height=200px src="swag.png" alt="Project logo"></a>
+ <img width=200px height=200px src="https://cdn3.iconfinder.com/data/icons/luchesa-vol-9/128/Weather-1024.png" alt="Project logo"></a>
 </p>
 
 
-<h3 align="center">Project Title</h3>
+<h3 align="center">Weather App</h3>
 
 <div align="center">
 
@@ -41,14 +39,10 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-Fully Functional E-commerce website Swag of India is a responsive e-commerce website. The technologies used in this project are HTML, CSS, Vanilla JavaScript and Bootstrap. There are a few important modules in the project like home page, image carousel, product listing page, product page, cart page, wishlist page etc. The data is accessed using ajax call and then rendered into the webpage using dynamic html template created using string literals. For cart-page we are using localstorage to temporarily storing data before clicking on the checkout button. I took almost 40 - 50 hrs to complete this project. SkillLync helped me by providing the wire-frames for all relevant feature pages
-
 The weather application is made for every kind of user. It provides simplicity, reliability and good interface to the end user.
 The technologies are used in this project are HTML, CSS, and JavaScript. There are some key concepts in the project like API, API key, etc. JSON is used to read the data from the server and then fetch method is implemented in a project to access the various API parameters. I took almost 20 - 25 hrs to complete this project. Skill-Lync helped me that how to apply the JavaScript programming features in building a web application. 
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
 ### Prerequisites
 What things you need to install the software and how to install them.
 > User must have installed the visual studio code on the Desktop.
@@ -62,10 +56,6 @@ What things you need to install the software and how to install them.
 > Visual Studio code can be install from the below website:
 > https://code.visualstudio.com//
 > Installation is very simple follow each and every instruction while an installing the VS code.
-
-```
-Give examples
-```
 
 ### Installing VS code
 One can get the installation guide from the official website of VS code i.e. https://code.visualstudio.com//.
@@ -91,6 +81,7 @@ Application interface is quite user friendly that any common user will let know 
 
 ## 🚀 Deployment <a name = "deployment"></a>
 Add additional notes about how to deploy this on a live system.
+### Create a GitHub repository
 
 ## ⛏️ Flow Chart <a name = "flowchart"></a>
 
