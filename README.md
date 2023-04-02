@@ -43,45 +43,51 @@
 ## 🧐 About <a name = "about"></a>
 Fully Functional E-commerce website Swag of India is a responsive e-commerce website. The technologies used in this project are HTML, CSS, Vanilla JavaScript and Bootstrap. There are a few important modules in the project like home page, image carousel, product listing page, product page, cart page, wishlist page etc. The data is accessed using ajax call and then rendered into the webpage using dynamic html template created using string literals. For cart-page we are using localstorage to temporarily storing data before clicking on the checkout button. I took almost 40 - 50 hrs to complete this project. SkillLync helped me by providing the wire-frames for all relevant feature pages
 
+The weather application is made for every kind of user. It provides simplicity, reliability and good interface to the end user.
+The technologies are used in this project are HTML, CSS, and JavaScript. There are some key concepts in the project like API, API key, etc. JSON is used to read the data from the server and then fetch method is implemented in a project to access the various API parameters. I took almost 20 - 25 hrs to complete this project. Skill-Lync helped me that how to apply the JavaScript programming features in building a web application. 
+
 ## 🏁 Getting Started <a name = "getting_started"></a>
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 What things you need to install the software and how to install them.
+> User must have installed the visual studio code on the Desktop.
+> User must have installed the Live Server Extension to go for live server in the VS code.
+> User must have an account created on a website i.e. https://www.openweathermap.org// to get the access to an API and API key.
+> CPU: Intel i5 or higher (U series or higher) recommended
+> Memory: 8 GB
+> Free storage: 4 GB
+> Screen resolution: 1280 x 800
+> User must have a reliable internet connection to run the application. In case if internet connection is not reliable then prefer different device internet connection.
+> Visual Studio code can be install from the below website:
+> https://code.visualstudio.com//
+> Installation is very simple follow each and every instruction while an installing the VS code.
 
 ```
 Give examples
 ```
 
-### Installing
-A step by step series of examples that tell you how to get a development env running.
+### Installing VS code
+One can get the installation guide from the official website of VS code i.e. https://code.visualstudio.com//.
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
-## 🔧 Running the tests <a name = "tests"></a>
+## 🔧 Test cases for an application <a name = "tests"></a>
 Explain how to run the automated tests for this system.
+1]Application must work under given facilities.
+> Check for internet connection if it available and reliable.
+> Check for the API accuracy if it must be accurate.
+> Check for the API key provided by the website it must an accurate.
+> Check for the Valid location throughout the world.
+> Check for the each and every API parameters.
 
 ### Break down into end to end tests
-Explain what these tests test and why
+Above given tests cases helps to cover all the important modules of an application.
 
 ```
-Give an example
+In case if there is no internet connection then app will not load API data.
 ```
 
 ## 🎈 Usage <a name="usage"></a>
-Add notes about how to use the system.
+Application interface is quite user friendly that any common user will let know that how to use the application because there application structure is made in such a way that user just has to enter the city name and by pressing the Enter button user will get the weather API data of that location.
 
 ## 🚀 Deployment <a name = "deployment"></a>
 Add additional notes about how to deploy this on a live system.
