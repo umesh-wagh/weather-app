@@ -85,7 +85,7 @@ Add additional notes about how to deploy this on a live system.
 
 ## ⛏️ Flow Chart <a name = "flowchart"></a>
 
-![bg width:1000px](./swagindiaflowchart.png)
+![bg width:1000px](https://lucid.app/lucidchart/88b4386f-fdcc-4b77-84df-aafe67796650/edit?viewport_loc=59%2C37%2C2534%2C1204%2C0_0&invitationId=inv_4f1fcf25-fdcd-4a0d-8766-348a066bd3dd)
 
 - [MongoDB](https://www.mongodb.com/) - Database
 - [Express](https://expressjs.com/) - Server Framework
