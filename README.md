@@ -80,26 +80,23 @@ In case if there is no internet connection then app will not load API data.
 Application interface is quite user friendly that any common user will let know that how to use the application because there application structure is made in such a way that user just has to enter the city name and by pressing the Enter button user will get the weather API data of that location.
 
 ## 🚀 Deployment <a name = "deployment"></a>
-Add additional notes about how to deploy this on a live system.
+Log in to the Cloudflare dashboard.
+Go to Pages > Create a project > Direct Upload.
+Name your project > Create project.
+Drag and drop your ZIP file or select it from your computer.
+After your files have been uploaded, select Deploy site.
 ### Create a GitHub repository
+  Step1: Create an account on a GitHub.
+  Step2: Go to your project folder select all the files and now open your GitHub account and there is a option to create a new repository by clicking over there, paste all the selected files 
 
 ## ⛏️ Flow Chart <a name = "flowchart"></a>
-![alt text](https://github.com/[umesh-wagh]/[weather-app]/blob/[main]/Weather-Flowchart.png?raw=true)
-![alt text](https://github.com/[umesh-wagh]/[weather-app]/blob/[main]/Weather-Flowchart.png?raw=true)
--[FlowChart](https://github.com/umesh-wagh/weather-app/blob/cf78404218dd42dd442e0a2185005a03b5ff1b24/Weather-Flowchart.png)- Weather App Flow Chart
 ![Weather-Flowchart](https://user-images.githubusercontent.com/110533392/229402773-fedd71a0-e69c-47ce-bdc3-56e9a54be0ad.png)
-
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
-
 ## ✍️ Authors <a name = "authors"></a>
-- [@SkillLymc](https://github.com/kylelobo) - FSD
+- [@Umesh Wagh] - FSD
 
 See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+- Skill-Lync guide
+- Shambhavi Sadhasivam(Skill-Lync Front-end mentor)
+- (https://developer.mozilla.org//)
