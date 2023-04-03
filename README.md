@@ -23,7 +23,7 @@
 
 <p align="center">
   The app shows the weather information of a given city or location worldwide.
-  The weather app is built using three basic technologies i.e., HTML, CSS and JavaScript. 
+  The weather app is built using three basic web technologies i.e., HTML, CSS and JavaScript. 
     <br> 
 </p>
 
@@ -33,8 +33,6 @@
 - [Deployment](#deployment)
 - [Usage](#usage)
 - [Flow Chart](#flowchart)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
