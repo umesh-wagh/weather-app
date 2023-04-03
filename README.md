@@ -62,11 +62,16 @@ One can get the installation guide from the official website of VS code i.e. htt
 
 ## 🔧 Test cases for an application <a name = "tests"></a>
 Explain how to run the automated tests for this system.
-1]Application must work under given facilities.
-> Check for internet connection if it available and reliable.
-> Check for the API accuracy if it must be accurate.
-> Check for the API key provided by the website it must an accurate.
-> Check for the Valid location throughout the world.
+Application must work under given facilities.
+<br />
+> Check for internet connection if it available and reliable.  <br />
+
+> Check for the API accuracy if it must be accurate. <br />
+
+> Check for the API key provided by the website it must an accurate. <br />
+
+> Check for the Valid location throughout the world. <br />
+
 > Check for the each and every API parameters.
 
 ### Break down into end to end tests
@@ -80,14 +85,33 @@ In case if there is no internet connection then app will not load API data.
 Application interface is quite user friendly that any common user will let know that how to use the application because there application structure is made in such a way that user just has to enter the city name and by pressing the Enter button user will get the weather API data of that location.
 
 ## 🚀 Deployment <a name = "deployment"></a>
-Log in to the Cloudflare dashboard.
-Go to Pages > Create a project > Direct Upload.
-Name your project > Create project.
-Drag and drop your ZIP file or select it from your computer.
+Cloudflare protects and accelerates any website online. Once your website is a part of the Cloudflare community, its web traffic is routed through Cloudflare intelligent global network. 
+``
+Log in to the Cloudflare dashboard. <br />
+
+Go to Pages > Create a project > Direct Upload.<br />
+
+Name your project > Create project. <br />
+
+Drag and drop your ZIP file or select it from your computer. <br />
+
 After your files have been uploaded, select Deploy site.
+``
 ### Create a GitHub repository
-  Step1: Create an account on a GitHub.
-  Step2: Go to your project folder select all the files and now open your GitHub account and there is a option to create a new repository by clicking over there, paste all the selected files 
+Here are some following steps to create the github repository: <br />
+1] Log into the GitHub administrative console <br />
+2] Move to the GitHub Repositories page <br />
+3] Click on the green “New” button <br />
+4] This will bring up the GitHub repo creation wizard <br />
+5] Enter the name of the GitHub repository <br />
+6] Include a description (optional) <br />
+7] Choose to make this a public or private GitHub repository <br />
+8] Add a README (optional) <br />
+9] Include a .gitignore file for your development framework (optional) <br />
+10] Choose a fair use license <br />
+11] Click the green “Create Repository” button to finish the process <br />
+<br />
+Now your repository is created.
 
 ## ⛏️ Flow Chart <a name = "flowchart"></a>
 ![Weather-Flowchart](https://user-images.githubusercontent.com/110533392/229402773-fedd71a0-e69c-47ce-bdc3-56e9a54be0ad.png)
