@@ -42,18 +42,18 @@ The technologies are used in this project are HTML, CSS, and JavaScript. There a
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 ### Prerequisites
-What things you need to install the software and how to install them.
-> User must have installed the visual studio code on the Desktop.
-> User must have installed the Live Server Extension to go for live server in the VS code.
-> User must have an account created on a website i.e. https://www.openweathermap.org// to get the access to an API and API key.
-> CPU: Intel i5 or higher (U series or higher) recommended
-> Memory: 8 GB
-> Free storage: 4 GB
-> Screen resolution: 1280 x 800
-> User must have a reliable internet connection to run the application. In case if internet connection is not reliable then prefer different device internet connection.
-> Visual Studio code can be install from the below website:
-> https://code.visualstudio.com//
-> Installation is very simple follow each and every instruction while an installing the VS code.
+What things you need to install the software and how to install them. <br />
+> User must have installed the visual studio code on the Desktop. <br />
+> User must have installed the Live Server Extension to go for live server in the VS code. <br />
+> User must have an account created on a website i.e. https://www.openweathermap.org// to get the access to an API and API key. <br />
+> CPU: Intel i5 or higher (U series or higher) recommended <br />
+> Memory: 8 GB <br />
+> Free storage: 4 GB <br />
+> Screen resolution: 1280 x 800 <br />
+> User must have a reliable internet connection to run the application. In case if internet connection is not reliable then prefer different device internet connection. <br />
+> Visual Studio code can be install from the below website: <br />
+> https://code.visualstudio.com// <br />
+> Installation is very simple follow each and every instruction while an installing the VS code. <br />
 
 ### Installing VS code
 One can get the installation guide from the official website of VS code i.e. https://code.visualstudio.com//.
