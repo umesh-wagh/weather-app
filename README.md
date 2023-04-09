@@ -116,8 +116,6 @@ Now your repository is created.
 ## ✍️ Authors <a name = "authors"></a>
 - [@Umesh Wagh] - FSD
 
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
-
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - Skill-Lync guide
 - Shambhavi Sadhasivam(Skill-Lync Front-end mentor)
